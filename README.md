@@ -1,6 +1,12 @@
 # MachineSettingsAction
 Cura plugin which provides a way to modify printer settings (build volume, nozzle size, start/end gcode) from within Cura.
 
+This plugin has been merged into the default Cura repository
+----
+This repository is kept for historic purposes, but will not be updated.
+
+
+
 Installation
 ----
 - Make sure your Cura version is 2.2 or newer
